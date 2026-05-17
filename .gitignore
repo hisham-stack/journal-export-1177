@@ -1,0 +1,7 @@
+output/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+cookies.json
